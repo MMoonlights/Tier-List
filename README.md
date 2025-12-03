@@ -1,2 +1,2 @@
-# Tier-List
-shows tiers on MCTiers and CISTiers
+# Tier List
+It shows Player Tiers from MCTiers and CISTiers
